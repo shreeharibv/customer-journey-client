@@ -1,1 +1,1 @@
-# customer-journey-client
+# customer-journey backend
